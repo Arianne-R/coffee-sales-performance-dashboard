@@ -26,7 +26,7 @@ The **Coffee Sales Performance Dashboard** is an Excel-based interactive tool th
 
 Dataset used for portfolio and demonstration purposes. Originally sourced from a publicly available dataset.
 
-- <a href="https://github.com/Arianne-R/coffee-sales-performance-dashboard/blob/main/coffee_sales_raw_data.xlsx">**coffee_sales_raw_data.xlsx**</a> – contains raw data used for data cleaning and transformation in Power Query.
+- <a href="https://github.com/Arianne-R/coffee-sales-performance-dashboard/blob/main/coffee_sales_raw_data.xlsx">**coffee_sales_raw_data.xlsx**</a> – raw dataset used as the starting point for analysis.
 - <a href="https://github.com/Arianne-R/coffee-sales-performance-dashboard/blob/main/coffee_sales_performance_dashboard.xlsx">**coffee_sales_performance_dashboard.xlsx**</a> – main project file where all data transformation, analysis, and dashboard creation were performed using Power Query, PivotTables, and charts.
 - <a href="https://github.com/Arianne-R/coffee-sales-performance-dashboard/blob/main/dashboard_preview.png">**dashboard_preview.png**</a> – preview image of the final interactive Excel dashboard layout and visualizations.
 
