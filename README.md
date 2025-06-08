@@ -156,7 +156,7 @@ Dataset used for portfolio and demonstration purposes. Originally sourced from a
 
 ## Dashboard Preview
 
-![dashboard_preview](https://github.com/user-attachments/assets/11f3cac0-d8d1-4f84-8405-e86f30ff3817)
+![dashboard_preview](https://github.com/user-attachments/assets/582586c9-bfa4-469b-af90-a30d0182dac0)
 
 > *Interactive Excel dashboard with slicers and charts to visualize coffee sales performance*
 
