@@ -156,7 +156,7 @@ The following files are included in this project for demonstration and portfolio
 
 ## Dashboard Preview
 
-![dashboard_preview](https://github.com/user-attachments/assets/582586c9-bfa4-469b-af90-a30d0182dac0)
+<img width="1547" height="865" alt="dashboard_preview" src="https://github.com/user-attachments/assets/934c8f5f-9138-439a-9e04-768625767920" />
 
 > *Interactive Excel dashboard with slicers and charts to visualize coffee sales performance*
 
